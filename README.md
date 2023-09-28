@@ -10,5 +10,5 @@ I study Mobile Media at the Media University based in Stuttgart, Germany. In my 
 - UX/UI design tools: **Figma and Affinity Publisher, Designer and Photo**
 
 ## Projects: 
-- Android travelbook app written in Kotlin: [travelbook](http://domain.de)
-- First Java project Training plan: [training plan](http://domain.de)
+- Android travelbook app written in Kotlin: [travelbook](https://github.com/FLink30/travelbook)
+- Simple Java project Training plan: [training plan](https://github.com/FLink30/trainingplan)
