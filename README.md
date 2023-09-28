@@ -11,4 +11,4 @@ I study Mobile Media at the Media University based in Stuttgart, Germany. In my 
 
 ## Projects: 
 - Android travelbook app written in Kotlin: [travelbook](https://github.com/FLink30/travelbook)
-- Simple Java project Training plan: [training plan](https://github.com/FLink30/trainingplan)
+- Simple Training plan desktop application written in Java: [training plan](https://github.com/FLink30/trainingplan)
