@@ -1,7 +1,8 @@
 # Hi, I’m Franziska :) 
 
 ## About me: 
-I study Mobile Media at the Media University based in Stuttgart, Germany. In my spare time i like going swimming, flying gliders, playing the guitar or drawing. 
+I study Mobile Media at the Media University based in Stuttgart, Germany. In my spare time I like to swim, fly gliders, play guitar or draw. 
+
 
 ## Skills & Experience: 
 - **Java, Kotlin**
