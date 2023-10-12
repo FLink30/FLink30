@@ -13,7 +13,7 @@ I study Mobile Media at the Media University based in Stuttgart, Germany. In my 
 ## Projects: 
 - Android app [travelbook](https://github.com/FLink30/travelbook) written in Kotlin
 - Simple desktop application [training plan](https://github.com/FLink30/trainingplan) written in Java
-- SQL Database for Food-Delivery Service: [delivery service](https://github.com/FLink30/Delivery-service)
+- SQL Database for a [Food-Delivery Service](https://github.com/FLink30/Delivery-service)
 
 ## Design: 
 - ADHD Awareness-App [Empathize](https://www.figma.com/proto/HyGQKmn688sw8WYRsn1gXo/Empathize?page-id=0%3A1&type=design&node-id=0-1&viewport=-1078%2C22%2C0.06&t=uUq2jrVMKeBbVkuv-1&scaling=scale-down&starting-point-node-id=19%3A50&show-proto-sidebar=1&mode=design) designed with Figma
