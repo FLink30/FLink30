@@ -21,3 +21,6 @@ I study Mobile Media at the Media University based in Stuttgart, Germany. In my 
 
 ## Drawings: 
 On the Instagram Account [flink_faces](https://www.instagram.com/flink_faces/?hl=de) you can find my drawings
+
+## LinkedIn: 
+- I'm looking forward to hear from you: [LinkedIn]([https://www.instagram.com/flink_faces/?hl=de](https://www.linkedin.com/in/franziska-link-b81241295/)https://www.linkedin.com/in/franziska-link-b81241295/)
