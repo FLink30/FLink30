@@ -4,7 +4,7 @@
 I study Mobile Media at the Media University based in Stuttgart, Germany. In my spare time I like to swim, fly gliders, play guitar or draw. 
 
 
-## Skills & Experience: 
+## Learnings: 
 - **Java, Kotlin**
 - Front-end development: **HTML, CSS, JavaScript**
 - Version control system: **Git, GitLab**
