@@ -5,8 +5,9 @@ I study Mobile Media at the Media University based in Stuttgart, Germany. In my 
 
 
 ## Experience with: 
-- **Java, Kotlin**
-- Front-end development: **HTML, CSS, JavaScript**
+- Apps: **Kotlin, Swift**
+- Web: **HTML, CSS, JavaScript**
+- **Java**
 - Version control system: **Git, GitLab**
 - UX/UI design tools: **Figma and Affinity Publisher, Designer and Photo**
 
