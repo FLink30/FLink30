@@ -22,8 +22,5 @@ I study Mobile Media at the Media University based in Stuttgart, Germany. In my 
 - ADHD Awareness-App [Empathize](https://github.com/FLink30/Empathize) designed with Figma
 - Music-Game-App [Guess the song](https://github.com/FLink30/Guess-the-song) designed with Figma
 
-## Drawings: 
-On the Instagram Account [flink_faces](https://www.instagram.com/flink_faces/?hl=de) you can find my drawings
-
 ## LinkedIn: 
 - I'm looking forward to hear from you: [LinkedIn](https://www.linkedin.com/in/franziska-link-b81241295/)
