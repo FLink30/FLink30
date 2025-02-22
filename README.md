@@ -12,6 +12,7 @@ I study Mobile Media at the Media University based in Stuttgart, Germany. In my 
 - UX/UI design tools: **Figma and Affinity Publisher, Designer and Photo**
 
 ## Software Projects: 
+- iOS app [scores](https://github.com/FLink30/scores) written in Swift using SwiftUI 
 - iOS app [FridgeSnap](https://github.com/FLink30/FridgeSnap) written in Swift using SwiftUI and SwiftData
 - my first Android app [travelbook](https://github.com/FLink30/travelbook) written in Kotlin
 - my first iOS app [Pokedeck](https://github.com/FLink30/Pokedeck) written in Swift
